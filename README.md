@@ -15,7 +15,7 @@ As principais funcionalidades do TecBee incluem:
 Imagens do Produto:
 
 ##  Integrantes do Projeto
-- Tiago Pantoja (tiago21070205@aluno.cesupa.br)
+- Tiago Luis Souza Pantoja (tiago21070205@aluno.cesupa.br)
 - Lucas Maués dos Santos (lucas20070006@aluno.cesupa.br)
 - Otto Samuel Monteiro Rego (otto22070024@aluno.cesupa.br)
 - Julio Mateus Costa da Silva (julio23070066@aluno.cesupa.br)
