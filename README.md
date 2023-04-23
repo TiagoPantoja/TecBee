@@ -13,7 +13,7 @@ As principais funcionalidades do TecBee incluem:
 
 ## Telas ou Imagens do Funcionamento do Produto
 ![teste](https://user-images.githubusercontent.com/80236937/233842677-8701bf26-624d-48f1-bae1-28f17ade18d0.png)
-
+![tecbee2 (1)](https://user-images.githubusercontent.com/80236937/233842746-0a0e1279-3c19-43ea-8ed4-c6a385d846d8.jpg)
 
 ##  Integrantes do Projeto
 - Tiago Luis Souza Pantoja (tiago21070205@aluno.cesupa.br)
