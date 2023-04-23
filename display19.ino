@@ -1,5 +1,5 @@
-/*Adicionando display de LCD */
-/* Adicionando sensor de temperatura e umidade DHT modelo 11 */
+// Adicionando display de LCD
+// Adicionando sensor de temperatura e umidade DHT modelo 11
 #include "DHT.h"
 #include <dht11.h>
 #include <LiquidCrystal.h>
