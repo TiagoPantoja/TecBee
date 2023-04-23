@@ -12,7 +12,9 @@ As principais funcionalidades do TecBee incluem:
 - Interface intuitiva para o usuário, com botões de configuração e visualização dos dados.
 
 ## Telas ou Imagens do Funcionamento do Produto
-Imagens do Produto:
+![tecbee1](https://user-images.githubusercontent.com/80236937/233842378-642aed3c-ec3d-4d9a-adc4-efde8b3895a0.jpg)
+
+![tecbee2](https://user-images.githubusercontent.com/80236937/233842389-80592407-7abc-4df3-bf69-bc23c2fc56fb.jpg)
 
 ##  Integrantes do Projeto
 - Tiago Luis Souza Pantoja (tiago21070205@aluno.cesupa.br)
