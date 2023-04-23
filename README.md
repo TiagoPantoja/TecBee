@@ -3,6 +3,7 @@ O TecBee é um projeto de sistema embarcado desenvolvido com a plataforma Arduin
 
 ## Objetivos
 O principal objetivo do TecBee é fornecer informações precisas e em tempo real sobre a caixa de abelhas, para ajudar no seu manejo e cuidado por parte das futuras apicultoras do MMIB, e também da Ilha de Cotijuba. Com os dados coletados em tempo real pelos sensores, é possível monitorar a temperatura, umidade, frequência sonora e presença de abelhas na caixa. Isso permite que os apicultores tomem decisões mais informadas sobre quando é necessário intervir na caixa de abelhas, evitando perdas e melhorando o manejo do apiário.
+
 Além do mais, outro objetivo do TecBee é auxiliar pequenos apicultores que queiram aderir a criação de abelhas para garantir uma nova forma de sustento com  o mel, inicialmente das abelhas Melipondas, uma vez que a solução foi adaptada para auxiliar uma caixa de abelhas sem ferrão, também conhecidas como Melipondas.
 
 ## Principais Funcionalidades
